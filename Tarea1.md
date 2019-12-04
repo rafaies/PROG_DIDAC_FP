@@ -17,21 +17,7 @@
 ## PERFIL PROFESIONAL
 
 - Asociado a Unidades de competencia: SÍ
-- Cualificación Profesional: 
-
-    - **1.- Cualificaciones profesionales completas:**
-        - a) Desarrollo de aplicaciones con tecnologías Web IFC154_3 (Real Decreto 1087/2005, de 16 de septiembre), que comprende las siguientes unidades de competencia:
-            - UC0491_3: Desarrollar elementos software en el entorno cliente.
-            - UC0492_3: Desarrollar elementos software en el entorno servidor.
-            - UC0493_3: Implementar, verificar y documentar aplicaciones web en entornos internet, intranet y extranet.
-    - **2.- Cualificaciones profesionales incompletas:**
-        - a) Programación en lenguajes estructurados de aplicaciones de gestión IFC155_3 (Real Decreto 1087/2005, de 16 de septiembre).
-            - UC0223_3: Configurar y explotar sistemas informáticos.
-            - UC0226_3: Programar bases de datos relacionales.
-         - b) Programación con lenguajes orientados a objetos y bases de datos relacionales IFC080_3 (Real Decreto. 295/2004, de 20 de febrero).
-            - UC0223_3: Configurar y explotar sistemas informáticos.
-            - UC0226_3: Programar bases de datos relacionales.
-            
+- Cualificación Profesional: **Desarrollo de aplicaciones con tecnologías Web IFC154_3 (Real Decreto 1087/2005, de 16 de septiembre)**
 - Unidad de Competencia: **UC0492_3 Desarrollar elementos software en el entorno servidor.**
 - La formación del módulo contribuye a alcanzar las **competencias profesionales, personales y sociales** de este título que se relacionan a continuación:
     - **c)** Gestionar servidores de aplicaciones adaptando su configuración en cada caso para permitir el despliegue de aplicaciones Web.
